@@ -177,3 +177,10 @@ span{
 }
 
 
+/* ESTILO PRODUCTOS */
+
+#tarjeta{
+    display: flex;
+    justify-content: center;
+}
+
